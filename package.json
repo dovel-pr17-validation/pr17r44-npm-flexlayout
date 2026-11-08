@@ -96,7 +96,7 @@
     "@emotion/styled": "^11.14.1",
     "@eslint/js": "^10.0.1",
     "@monaco-editor/react": "^4.7.0",
-    "@mui/material": "^9.4.0",
+    "@mui/material": "^9.5.0",
     "@mui/x-data-grid": "^9.14.0",
     "@playwright/test": "^1.63.0",
     "@testing-library/jest-dom": "^7.0.1",
